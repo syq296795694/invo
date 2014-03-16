@@ -1,0 +1,7 @@
+[Sun, 16 Mar 14 13:10:10 +0000][DEBUG] InvoicesController handler class cannot be loaded
+[Sun, 16 Mar 14 13:10:37 +0000][DEBUG] exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'InvoicesController handler class cannot be loaded' in D:\Program Files (x86)\wamp\www\invo\admin\public\index.php:135
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('InvoicesControl...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 D:\Program Files (x86)\wamp\www\invo\admin\public\index.php(135): Phalcon\Mvc\Application->handle()
+#3 {main}
